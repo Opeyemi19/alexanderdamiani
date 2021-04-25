@@ -1,4 +1,5 @@
-### Welcome to my profile, everybody calls me Alex
+<h2> Welcome to my profile, everybody calls me Alex <img src="https://media.giphy.com/media/UQnRw2GW4xGwu519XE/giphy.gif" width="50"></h2>
+
 
 [![Youtube Alex](https://img.shields.io/youtube/channel/subscribers/UCTebDgj-GzOh3zo9Xf1vO4A?style=social)](https://www.youtube.com/channel/UCTebDgj-GzOh3zo9Xf1vO4A/)
 [![GitHub Alex](https://img.shields.io/github/followers/alexanderdamiani?label=follow&style=social)](https://github.com/alexanderdamiani?tab=followers)
