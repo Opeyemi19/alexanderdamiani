@@ -39,9 +39,3 @@ If you'd like to get in touch feel free to [email me](mailto:alexander.damiani15
 [Python Intermediate Tutorial](https://www.youtube.com/watch?v=TGGwPm7Goxg&list=PL0dOL8Z7pG3I9QVAyxXHClXUY8P_Qddv9)
 </td></tr></table>
 </div>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderdamiani&layout=compact&hide=Jupyter%20Notebook)](https://github.com/alexanderdamiani/github-readme-stats)
-
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderdamiani)](https://github.com/alexanderdamiani/github-readme-stats&show_icons=true&theme=radical)
