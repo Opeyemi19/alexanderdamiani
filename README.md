@@ -1,6 +1,5 @@
 <h2> Welcome to my profile, everybody calls me Alex <img src="https://media.giphy.com/media/UQnRw2GW4xGwu519XE/giphy.gif" width="50"></h2>
 
-![](https://visitor-badge.glitch.me/badge?page_id=alexanderdamiani.alexanderdamiani)
 [![Youtube Alex](https://img.shields.io/youtube/channel/subscribers/UCTebDgj-GzOh3zo9Xf1vO4A?style=social)](https://www.youtube.com/channel/UCTebDgj-GzOh3zo9Xf1vO4A/)
 [![GitHub Alex](https://img.shields.io/github/followers/alexanderdamiani?label=follow&style=social)](https://github.com/alexanderdamiani?tab=followers)
 [![Linkedin: Alex](https://img.shields.io/badge/-Alex-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-d-cfa-5070b868/)](https://www.linkedin.com/in/alex-d-cfa-5070b868/)
