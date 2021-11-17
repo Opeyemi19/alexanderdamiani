@@ -23,6 +23,8 @@ If you'd like to get in touch feel free to [email me](mailto:alexander.damiani15
 [Python + AWS Lambda Deployment](https://www.youtube.com/watch?v=ECtqPy_e1Qw&list=PL0dOL8Z7pG3L4hi2SLJqojxshXNtsJQ_r)
 
 [AWS Lambda Static IP](https://www.youtube.com/watch?v=m4diiuHP-vM&list=PL0dOL8Z7pG3KSWxlDYibg0OyMb60BIHgr)
+
+[Python REST API with Chalice](https://youtube.com/playlist?list=PL0dOL8Z7pG3K5qfAmu_yHyB_eM6dUCtIj)
 </td><td valign="top" width="34%">
   
 ### DevOps
